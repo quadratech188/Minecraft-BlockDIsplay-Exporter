@@ -1,7 +1,7 @@
 # Minecraft-BlockDIsplay-Exporter
 This is a simple project that I worked on for a couple of days, that allows you to export cubes in Blender to a Minecraft datapack containing block display summon commands.
 
-#Requirements
+# Requirements
 - All cubes must have matching scale and dimensions (Scale by 0.5 in edit mode)
 - negative scales will not work (unless you are planning on using the resulting backface culling)
 - All cubes must have a material with the name of the corresponding minecraft block
