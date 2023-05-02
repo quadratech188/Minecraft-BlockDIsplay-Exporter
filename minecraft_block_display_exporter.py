@@ -47,7 +47,7 @@ print(joined_command)
 
 # path to your datapack
     
-FILEPATH = 'C:/Users/yhaki/AppData/Roaming/.minecraft/saves/New World (4)/datapacks/blockdisplayexport/data/blockexport/functions/export.mcfunction'
+FILEPATH = '(World Directory)/datapacks/blockdisplayexport/data/blockexport/functions/export.mcfunction'
     
 with open(FILEPATH,'w') as file_object:
     file_object.write(joined_command)
